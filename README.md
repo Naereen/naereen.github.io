@@ -1,6 +1,8 @@
 # Naereen @ GitHub [naereen.github.io](https://naereen.github.io/)
 Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by GitHub Pages), which gives a list to my GitHub pages for some repositories, and a link to [http://lbesson.bitbucket.org](http://lbesson.bitbucket.org/).
 
+The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown.
+
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/naereen.github.io.svg)](https://github.com/Naereen/naereen.github.io/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2015-16.
