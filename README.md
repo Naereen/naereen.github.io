@@ -4,7 +4,7 @@ Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by Git
 The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown.
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/naereen.github.io.svg)](https://github.com/Naereen/naereen.github.io/blob/master/LICENSE)
-[MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+[MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2015-16.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/naereen.github.io/graphs/commit-activity)
