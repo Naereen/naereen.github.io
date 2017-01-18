@@ -1,5 +1,5 @@
 # Naereen @ GitHub [naereen.github.io](https://naereen.github.io/)
-Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by GitHub Pages), which gives a list to my GitHub pages for some repositories, and a link to [http://lbesson.bitbucket.org](http://lbesson.bitbucket.org/).
+Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by GitHub Pages), which gives a list to my GitHub pages for some repositories, and a link to [http://lbesson.bitbucket.io](http://lbesson.bitbucket.io/).
 
 The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown.
 
