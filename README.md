@@ -3,6 +3,10 @@ Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by Git
 
 The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown.
 
+![Small demo of the https://naereen.github.io/ webpage](demo.png)
+
+> That way, it is easy to modify and keep up-to-date, minimalist on the storage point-of-view, but pretty and responsive thanks to [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js)'s theme (and bootstrap).
+
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/naereen.github.io.svg)](https://github.com/Naereen/naereen.github.io/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2015-17.
