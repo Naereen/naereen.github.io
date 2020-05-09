@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/naereen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://naereen.github.io
+  * I am naereen (https://keybase.io/naereen) on keybase.
+  * I have a public key ASB0qooyut1iVIMM35DaR2wUiYQ-q4jMDNUPL_LGM_0DTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012074aa8a32badd6254830cdf90da476c1489843eab88cc0cd50f2ff2c633fd034f0a",
+      "host": "keybase.io",
+      "kid": "012074aa8a32badd6254830cdf90da476c1489843eab88cc0cd50f2ff2c633fd034f0a",
+      "uid": "961eddd112157a366d636b1bb19cd819",
+      "username": "naereen"
+    },
+    "merkle_root": {
+      "ctime": 1589042781,
+      "hash": "7754279fefaf7f61fe6172316a77d6bfe97ae5f110891feb39fb3386d4c961c128783e276dd054b192b61074bd254c341f5a0b90e993ac28a51d9ac30dd3cfd4",
+      "hash_meta": "a8ccd8892dbdc6b48f6f59d91efdc3220c6cd233da53392e4da25a7b41b633c9",
+      "seqno": 16232311
+    },
+    "service": {
+      "entropy": "DEU6vWsmCT6XtLDWO3IhiOpO",
+      "hostname": "naereen.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589042825,
+  "expire_in": 504576000,
+  "prev": "649fe47793ae1fc44e1266a5db696ca3a2750dd015e6853988a9e62399f78df0",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdKqKMrrdYlSDDN+Q2kdsFImEPquIzAzVDy/yxjP9A08Kp3BheWxvYWTESpcCBsQgZJ/kd5OuH8ROEmal22lso6J1DdAV5oU5iKnmI5n3jfDEIENbCHNkgt6vWjrBGkV4GFXArnycKwfL6WuUdcXf9j/IAgHCo3NpZ8RAws3SAOkP1V3LpClh+yCLmOBcJJm0iwEsoFmG96AC/BlujqB2nzj4YRqwyPKXEhLyFwPQE4uTKag0glOLtBpVDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAqn9uZs7AYctqTaIEJeWv7fBOWF6aeRxpIhQDNwfKaDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/naereen
+
+==================================================================
