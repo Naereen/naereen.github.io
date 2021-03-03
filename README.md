@@ -1,7 +1,7 @@
 # Naereen @ GitHub [naereen.github.io](https://naereen.github.io/)
 Repo for [https://naereen.github.io](https://naereen.github.io/) (powered by GitHub Pages), which gives a list to my GitHub pages for some repositories, and a link to [http://lbesson.bitbucket.io](http://lbesson.bitbucket.io/).
 
-The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown.
+The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/StrapDown.js) to have an awesome look while being pure Markdown - which is *not* compiled to HTML by GitHub pages, but on-the-fly by *your* browser!
 
 ![Small demo of the https://naereen.github.io/ webpage](demo.png)
 
@@ -9,7 +9,7 @@ The [main page](index.html) uses [StrapDown.js](https://GitHub.com/Naereen/Strap
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/naereen.github.io.svg)](https://github.com/Naereen/naereen.github.io/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2015-19.
+© [Lilian Besson](https://GitHub.com/Naereen), 2015-21.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/naereen.github.io/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
