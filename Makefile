@@ -1,4 +1,4 @@
-# Makefile to convert Jupyter notebooks to HTML pages
+# Makefile to send this to my website
 SHELL=/usr/bin/env /bin/bash
 
 all:	send
